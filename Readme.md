@@ -14,3 +14,6 @@ separate copies of the project used to make changes
 
 ##Commit
 compares previous version to old version
+
+##Merge
+combine changes from two branches
