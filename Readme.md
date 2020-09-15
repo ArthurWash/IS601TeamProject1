@@ -17,3 +17,6 @@ compares previous version to old version
 
 ##Merge
 combine changes from two branches
+
+##Checkout
+selects branch that is currently being worked on
