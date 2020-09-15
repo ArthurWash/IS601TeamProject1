@@ -29,6 +29,3 @@ updates local project from remote project
 
 ##Add
 adds a change, lets you choose what you are going to commit
-
-##Remove
- lets you remove files and directories from a repository
