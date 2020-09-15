@@ -11,3 +11,6 @@ copy of a project in a personal account
 
 ##Branch
 separate copies of the project used to make changes
+
+##Commit
+compares previous version to old version
