@@ -23,3 +23,6 @@ selects branch that is currently being worked on
 
 ##Push
 updates remote repository with commits from local branch
+
+##Pull
+updates local project from remote project
