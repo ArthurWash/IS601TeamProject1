@@ -20,3 +20,6 @@ combine changes from two branches
 
 ##Checkout
 selects branch that is currently being worked on
+
+##Push
+updates remote repository with commits from local branch
