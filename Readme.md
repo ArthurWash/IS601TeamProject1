@@ -5,3 +5,6 @@ To keep track of all changes made to a project. Will keep a history of all chang
 
 ##Clone
 used to target an existing repository and create a clone
+
+##Fork
+copy of a project in a personal account
