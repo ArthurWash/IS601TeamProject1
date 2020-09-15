@@ -26,3 +26,6 @@ updates remote repository with commits from local branch
 
 ##Pull
 updates local project from remote project
+
+##Add
+adds a change, lets you choose what you are going to commit
