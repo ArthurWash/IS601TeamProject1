@@ -8,3 +8,6 @@ used to target an existing repository and create a clone
 
 ##Fork
 copy of a project in a personal account
+
+##Branch
+separate copies of the project used to make changes
