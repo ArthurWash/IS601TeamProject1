@@ -35,3 +35,6 @@ lets you remove files and directories from a repository
  
  ##Show
  shows expanded details of objects
+ 
+ #Status
+ shows status of any changes
