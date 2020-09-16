@@ -33,8 +33,11 @@ adds a change, lets you choose what you are going to commit
 ##Remove
 lets you remove files and directories from a repository
  
- ##Show
+##Show
  shows expanded details of objects
  
- #Status
+##Status
  shows status of any changes
+
+##Master Branch
+working branch, the final branch for all changes made to a project
