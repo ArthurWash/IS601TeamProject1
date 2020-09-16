@@ -31,4 +31,7 @@ updates local project from remote project
 adds a change, lets you choose what you are going to commit
 
 ##Remove
- lets you remove files and directories from a repository
+lets you remove files and directories from a repository
+ 
+ ##Show
+ shows expanded details of objects
