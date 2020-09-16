@@ -38,3 +38,6 @@ lets you remove files and directories from a repository
  
 ##Status
  shows status of any changes
+
+##Master Branch
+working branch, the final branch for all changes made to a project
