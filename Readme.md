@@ -2,42 +2,56 @@
 
 ##Repository
 To keep track of all changes made to a project. Will keep a history of all changes
+Example: Use when collaborating with a team on a project to keep track of who is making what changes
 
 ##Clone
-used to target an existing repository and create a clone
+Used to target an existing repository and create a clone
+Example: Use when a repository is shared to work on it locally
 
 ##Fork
-copy of a project in a personal account
+Copy of a project in a personal account
+Example: Use when you want to give access to a project without making the user a collaborator 
 
 ##Branch
-separate copies of the project used to make changes
+Git branches are effectively a pointer to a snapshot of your changes.
+Example: Use when adding new parts to a project to easily go back and make edits if necessary
 
 ##Commit
-compares previous version to old version
+Compares a new version to a previous version
+Example: Use when you want to save changes to a local repository 
 
 ##Merge
-combine changes from two branches
+Combine changes from two branches
+Example: Use when you want to merge two branches into one once you confirm there are no arguments with each branch's code
 
 ##Checkout
-selects branch that is currently being worked on
+Selects branch that is currently being worked on
+Example: Use when you need to work on a specific branch of a project
 
 ##Push
-updates remote repository with commits from local branch
+Updates remote repository with commits from local branch
+Example: Use when wanting to share changes of a local project 
 
 ##Pull
-updates local project from remote project
+Updates local project from remote project
+Example: Use when you are ready to incorporate changes to a project made in a local repository
 
 ##Add
-adds a change, lets you choose what you are going to commit
+Adds a change, lets you choose what you are going to commit
+Example: Use to update the index using the current content found in the working tree, to prepare the content staged for the next commit
 
 ##Remove
-lets you remove files and directories from a repository
+Lets you remove files and directories from a repository
+Example: Use when you want to remove files from a local repository 
  
 ##Show
- shows expanded details of objects
- 
+Shows expanded details of objects
+Example: Use when you want to show one or more objects (blobs, trees, tags and commits)
+
 ##Status
- shows status of any changes
+Shows status of any changes
+Example: Use to display paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git
 
 ##Master Branch
-working branch, the final branch for all changes made to a project
+Working branch, the final branch for all changes made to a project
+Example: Every repository includes the Master branch. Use as a final location for all changes/additions to a project
