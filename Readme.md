@@ -1,5 +1,7 @@
 #Team Members
+
 Arthur Wash
+
 Erik Dannenberg
 
 #Definitions
