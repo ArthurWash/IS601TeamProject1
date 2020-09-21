@@ -56,22 +56,22 @@ Adds a change, lets you choose what you are going to commit
 
 Example: Use to update the index using the current content found in the working tree, to prepare the content staged for the next commit
 
-##Remove
+## Remove
 Lets you remove files and directories from a repository
 
 Example: Use when you want to remove files from a local repository 
  
-##Show
+## Show
 Shows expanded details of objects
 
 Example: Use when you want to show one or more objects (blobs, trees, tags and commits)
 
-##Status
+## Status
 Shows status of any changes
 
 Example: Use to display paths that have differences between the index file and the current HEAD commit, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git
 
-##Master Branch
+## Master Branch
 Working branch, the final branch for all changes made to a project
 
 Example: Every repository includes the Master branch. Use as a final location for all changes/additions to a project
