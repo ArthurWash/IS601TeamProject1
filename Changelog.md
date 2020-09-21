@@ -2,6 +2,41 @@
 ## This log has every change made in this project
 
 # Commits on Sep 21, 2020
+
+## Fix: About Gitflow Markdown tweak
+@ArthurWash
+ArthurWash committed
+79162ee  
+
+## Fix: Changelog Markdown formatting
+@ArthurWash
+ArthurWash committed
+5c74723  
+
+## Fix: Markdown edits part 2
+@ArthurWash
+ArthurWash committed
+d299ff2  
+
+## Fix: Markdown edits
+@ArthurWash
+ArthurWash committed
+19aa174  
+
+## Merge remote-tracking branch 'origin/master'  …
+@ArthurWash
+ArthurWash committed
+52b440e  
+
+## Fix: Markdown issue, testing result on Github
+@ArthurWash
+ArthurWash committed
+09ea0a1  
+
+## Merge pull request #19 from ArthurWash/Changelog  …
+@erikdannenberg
+erikdannenberg committed
+
 ## Merge pull request #18 from ArthurWash/VCSSummary  …
 @erikdannenberg
 erikdannenberg committed
