@@ -1,10 +1,10 @@
-#Team Members
+# Team Members
 
 Arthur Wash
 
 Erik Dannenberg
 
-#Definitions
+# Definitions
 
 ##Repository
 To keep track of all changes made to a project. Will keep a history of all changes
