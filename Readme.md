@@ -1,4 +1,4 @@
-#Team Members
+# Team Members
 
 Arthur Wash
 
@@ -6,52 +6,52 @@ Erik Dannenberg
 
 # Definitions
 
-##Repository
+## Repository
 To keep track of all changes made to a project. Will keep a history of all changes
 
 Example: Use when collaborating with a team on a project to keep track of who is making what changes
 
-##Clone
+## Clone
 Used to target an existing repository and create a clone
 
 Example: Use when a repository is shared to work on it locally
 
-##Fork
+## Fork
 Copy of a project in a personal account
 
 Example: Use when you want to give access to a project without making the user a collaborator 
 
-##Branch
+## Branch
 Git branches are effectively a pointer to a snapshot of your changes.
 
 Example: Use when adding new parts to a project to easily go back and make edits if necessary
 
-##Commit
+## Commit
 Compares a new version to a previous version
 
 Example: Use when you want to save changes to a local repository 
 
-##Merge
+## Merge
 Combine changes from two branches
 
 Example: Use when you want to merge two branches into one once you confirm there are no arguments with each branch's code
 
-##Checkout
+## Checkout
 Selects branch that is currently being worked on
 
 Example: Use when you need to work on a specific branch of a project
 
-##Push
+## Push
 Updates remote repository with commits from local branch
 
 Example: Use when wanting to share changes of a local project 
 
-##Pull
+## Pull
 Updates local project from remote project
 
 Example: Use when you are ready to incorporate changes to a project made in a local repository
 
-##Add
+## Add
 Adds a change, lets you choose what you are going to commit
 
 Example: Use to update the index using the current content found in the working tree, to prepare the content staged for the next commit
